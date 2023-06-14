@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WashAway</title>
+  <link rel="stylesheet" href="WashAway.css">
+</head>
+<body>
+  <header>
+    <h1>WashAway</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Services</a>
+      <a href="#">Pricing</a>
+      <a href="#">Contact Us</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>We offer a variety of laundry services to meet your needs.</h2>
+      <ul>
+        <li>Washing and drying</li>
+        <li>Ironing and folding</li>
+        <li>Dry cleaning</li>
+        <li>Pickup and delivery</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Our prices are affordable and our service is reliable.</h2>
+      <p>We offer a free quote for all of our services.</p>
+      <p>We also offer discounts for regular customers.</p>
+    </section>
+    <section>
+      <h2>Contact us today to schedule a service or to learn more about our services.</h2>
+      <p>We are available 24/7 to meet your needs.</p>
+      <p>We look forward to hearing from you!</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright 2023 WashAway. All rights reserved.</p>
+  </footer>
+</body>
+</html>
